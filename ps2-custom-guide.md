@@ -49,6 +49,7 @@ After Honeycomb-GUI finishes extracting, there will be a new folder named **qb**
 Enter this folder, then go to scripts, guitar, then scroll all the way to the bottom and double click the songlist.q file. 
 Then, search for the checksum you edited until you see a structure like this:
 
+
 anarchyintheuk = {
 		checksum = anarchyintheuk
 		name = 'anarchyintheuk'
@@ -68,6 +69,7 @@ anarchyintheuk = {
 		guitar_playback_volume = 2.25
 		rhythm_track = 0
 	}
+
 
 Do not edit the checksum, name or any other values, only edit the title, artist, and year values, and don't remove the space and comma from the year value. 
 Make sure to not accidentally delete any lines, as that could corrupt the structure and lead to your custom song being unplayable. After you've edited those, save the changes.
