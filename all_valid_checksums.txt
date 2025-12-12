@@ -1,0 +1,100 @@
+// Remember to save all the checksums you've already used, since two or more songs can't have the same checksum
+// These are all of the checksums in Guitar Hero III's PS2 version.
+Main Setlist, Coop Setlist & Bonus songs:
+	anarchyintheuk
+	avalancha
+	barracuda
+	beforeiforget
+	bellyofashark
+	blackmagicwoman
+	blacksunshine
+	bullsonparade
+	cantbesaved
+	cherubrock
+	citiesonflame
+	cliffsofdover
+	closer
+	cultofpersonality
+	dontholdback
+	downndirty
+	evenflow
+	fcpremix
+	generationrock
+	gothatfar
+	helicopter
+	hitmewithyourbestshot
+	hierkommtalex
+	holidayincambodia
+	imintheband
+	impulse
+	inlove
+	koolthing
+	knightsofcydonia
+	lagrange
+	laydown
+	mauvaisgarcon
+	metalheavylady
+	minuscelsius
+	mississippiqueen
+	missmurder
+	monsters
+	mycurse
+	mynameisjonas
+	nothingformehere
+	numberofthebeast
+	one
+	paintitblack
+	paranoid
+	prayeroftherefugee
+	pridenjoy
+	radiosong
+	rainingblood
+	reptilia
+	rocknrollallnite
+	rockulikeahurricane
+	ruby
+	sabotage
+	sameoldsonganddance
+	schoolsout
+	shebangsadrum
+	slowride
+	stricken
+	storyofmylife
+	suckmykiss
+	sunshineofyourlove
+	talkdirtytome
+	takethislife
+	themetal
+	theseeker
+	thewayitends
+	threesandsevens
+	thrufireandflames
+	welcometothejungle
+	whenyouwereyoung
+
+// Everything above is what you should be using. The below checksums are only meant to be used if you've filled your ISO, don't want to make another ISO and have no other options
+
+Tutorials (I do not recommend using these at all, but they can be useful if you plan on loading them with the debug menu, it's an extra 13 songs for your song limit):
+tutorial_1b
+tutorial_1c
+tutorial_1d
+tutorial_1e
+tutorial_2a
+tutorial_2b
+tutorial_2c
+tutorial_3a
+tutorial_3b
+tutorial_3c
+tutorial_3d
+tutorial_4c
+tutorial_4e
+
+Boss Battles (these don't appear in quickplay and will most likely break if you use them):
+bossslash
+bosstom
+bossdevil
+
+Calibration Songs (these will likely break calibration and don't appear on the main setlist. you could try to use them and load them with the debug menu for an extra 3 songs for your song limit tho):
+synctest
+synctestplaytoaudio
+synctestaudioandvisual
