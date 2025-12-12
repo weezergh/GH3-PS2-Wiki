@@ -4,10 +4,15 @@ Welcome to the Guitar Hero III for PS2 Customs Songs guide! This guide will help
 Since Guitar Hero 3 only has 70 songs (not counting tutorial, boss battles and other songs that don't appear in quickplay), that's your Song Limit. If you want more songs, you'll need two or more ISO's depending on your setlist's size.
 
 # Step 0 - Requirements
+
 **PCSX2** - Recommended for playtesting, but if you want to test on real hardware or your PC sucks you can skip this, however if you're on real hardware your console needs to be modded in order to play the modded ISO. I also don't recommend you skip playtesting, as shipping an ISO without even knowing if it works is lame and can waste another user's time. At least ask somebody you know to test it for you if you can't test it yourself.
+
 **Honeycomb-GUI** - Required for modifying the game and compiling songs
+
 **7-zip or WinRAR** - Used to extract the ISO
+
 **UltraISO** - Used to replace the unmodded ISO's files, you can use another tool as long as it edits ISO properly
+
 **ffmpeg** - Honeycomb-GUI needs this to convert audio.
 
 # Step 1 - Get the chart you want to convert
