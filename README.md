@@ -20,7 +20,7 @@ A checksum in Guitar Hero III is an internal ID that's used internally. For exam
 The Debug Menu is a menu that was used internally by Neversoft and Budcat during Guitar Hero III's development, that would assist the developers in doing many things, like enabling bots, freecam, and what we're interested in: Playing Songs, since by using the Debug Menu, we can play every single checksum, including tutorial and calibration songs, which gives us an extra 16 songs for our song limit. However, this menu **is not visible by default**, since it was not meant for the consumers, but for the developers. Luckily, we can re-enable this menu with a simple QB mod, and we even have a guide teaching you how to do it!
 
 # Congratulations!
-If you read and understood everything, you are ready to start modifications! Click the Guides folder and choose the MD file that teaches what you want to do.
+If you read and understood everything, you are ready to start modifications! Choose the MD file that teaches what you want to do first.
 
 
 
