@@ -75,7 +75,7 @@ Make sure to not accidentally delete any lines, as that could corrupt the struct
 # Step 9 - Recompile your QB file.
 (ignore this if you've edited a tutorial song, I do not recommend editing tutorial songs as it could break a lot of stuff)
 On the PAK tools window you opened in Honeycomb-GUI, change to the Compile tab.
-Select the qb folder inside the pak folder inside WAD Extract, then click the PS2 option in the console select buttons, then select GH3 on the Select Game box, then click Compile. 
+Select the qb folder inside the pak folder inside WAD Extract, then click the PS2 option in the console select buttons, the click Split PAB, then select GH3 on the Select Game box, then click Compile. 
 
 # Step 10 - Recompile your WAD
 Oh wow, ten steps. Anyways, after Honeycomb-GUI finishes compiling your PAK, go back to PS2 Archive Tools, then switch to the Compile tab, select the WAD Extract folder, uncheck the checkbox next to the Compile button and then click Compile.
