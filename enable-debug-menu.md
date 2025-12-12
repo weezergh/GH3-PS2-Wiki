@@ -35,7 +35,7 @@ This basically tells the game that if your copy is retail, disable all debugging
 
 # Step 5 - Recompile your QB file.
 On the PAK tools window you opened in Honeycomb-GUI, change to the Compile tab.
-Select the qb folder inside the pak folder inside WAD Extract, then click the PS2 option in the console select buttons, then select GH3 on the Select Game box, then click Compile. 
+Select the qb folder inside the pak folder inside WAD Extract, then click the PS2 option in the console select buttons, then select GH3 on the Select Game box, the check Split PAB, then click Compile. 
 
 # Step 6 - Recompile your WAD
 After Honeycomb-GUI finishes compiling your PAK, go back to PS2 Archive Tools, then switch to the Compile tab, select the WAD Extract folder, uncheck the checkbox next to the Compile button and then click Compile.
