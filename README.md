@@ -1,5 +1,5 @@
 # Welcome!
-Welcome to the Guitar Hero III PS2 Wiki! This wiki is dedicated to modding Guitar Hero III's PS2 port. We will cover topics such as installing custom songs, editing text, enabling the debug menu and more.
+Welcome to the Guitar Hero III PS2 Wiki! This wiki is dedicated to modding Guitar Hero III's PS2 port. We will cover topics such as installing custom songs, editing text, enabling the debug menu and more. Do note this guide is for Windows systems only as of 12/12/2025.
 
 # The Basics
 Before we get started, it's important that you understand a few terms we will use throughout almost all of the guides:
@@ -22,6 +22,12 @@ The Debug Menu is a menu that was used internally by Neversoft and Budcat during
 # Congratulations!
 If you read and understood everything, you are ready to start modifications! Choose the MD file that teaches what you want to do first.
 
+# Credits
+**EnterGH/weezer** - Me, I wrote the guides
+
+**AddyMills** - For the Honeycomb-GUI program as well as helping me fix the HOPO bug
+
+**NeverHax** - they're just awesome, please check them out
 
 
 
