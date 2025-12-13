@@ -40,9 +40,9 @@ Select the qb folder inside the pak folder inside WAD Extract, then click the PS
 # Step 6 - Recompile your WAD
 After Honeycomb-GUI finishes compiling your PAK, go back to PS2 Archive Tools, then switch to the Compile tab, select the WAD Extract folder, uncheck the checkbox next to the Compile button and then click Compile.
 
-# Step 11 - Modify your game ISO
+# Step 7 - Modify your game ISO
 Open your game's ISO using UltraISO. You will see several files and folders, but we're only interested in the WAD files.
 Next to the WAD Extract folder, there should be a new folder named WAD Compile. Drag all the files from the WAD Compile folder to your ISO's filesystem, replace all files when asked, click the diskette icon to save the changes you've made to the ISO, and wait for it to finish saving the changes.
 
-# Step 12 - Playtest
+# Step 8 - Playtest
 Now it's time for the fun part! Open the ISO you've modified on PCSX2 (or burn it to a disc/drag it to whatever place you use to load ISOS if you're on real hardware, do note your console needs to be modded to boot any burned games or boot ISOs), wait for the slow ass thing to load, and you should see that there is now a new menu named Debug Menu. If you do see it, congratulations! You've succesfully enabled the Debug Menu on your ISO.
