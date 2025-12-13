@@ -1,3 +1,4 @@
+# Welcome!
 Welcome to the Guitar Hero III for PS2 Customs Songs guide! This guide will help you install custom songs on an unmodded copy of Guitar Hero III for PS2.
 
 # Song Limit
@@ -73,19 +74,26 @@ anarchyintheuk = {
 
 
 Do not edit the checksum, name or any other values, only edit the title, artist, and year values, and don't remove the space and comma from the year value. 
-Make sure to not accidentally delete any lines, as that could corrupt the structure and lead to your custom song being unplayable. After you've edited those, save the changes.
+Make sure to not accidentally delete any lines, as that could corrupt the structure and lead to your custom song being unplayable. Then, make a new line in between rhythm_track = 0 and }, and paste this into the new line you've created:
+
+
+```
+		hammer_on_measure_scale = 500
+```
+
+After you've done everything, save the changes to your .q file.
 
 # Step 9 - Recompile your QB file.
 (ignore this if you've edited a tutorial song, I do not recommend editing tutorial songs as it could break a lot of stuff)
 On the PAK tools window you opened in Honeycomb-GUI, change to the Compile tab.
-Select the qb folder inside the pak folder inside WAD Extract, then click the PS2 option in the console select buttons, the click Split PAB, then select GH3 on the Select Game box, then click Compile. 
+Select the qb folder inside the pak folder inside WAD Extract, then click the PS2 option in the console select buttons, then click Split PAB, then select GH3 on the Select Game box, then click Compile. 
 
 # Step 10 - Recompile your WAD
 Oh wow, ten steps. Anyways, after Honeycomb-GUI finishes compiling your PAK, go back to PS2 Archive Tools, then switch to the Compile tab, select the WAD Extract folder, uncheck the checkbox next to the Compile button and then click Compile.
 
 # Step 11 - Modify your game ISO
-Open your game's ISO using UltraISO. You will see several files and folders, but we're only interested in the WAD files and the MUSIC folder. 
-Drag the MUSIC folder from your chart's PS2 Compile folder to the UltraISO window's ISO filesystem, and replace all files when asked. 
+Open your game's ISO using UltraISO or another ISO editing tool of your choice. You will see several files and folders, but we're only interested in the WAD files and the MUSIC folder. 
+Drag the MUSIC folder from your chart's PS2 Compile folder to the program window's ISO filesystem, and replace all files when asked. 
 Then, next to the WAD Extract folder, there should be a new folder named WAD Compile. Drag all the files from the WAD Compile folder to your ISO's filesystem, replace all files when asked, click the diskette icon to save the changes you've made to the ISO, and wait for it to finish saving the changes.
 
 # Step 12 - Playtest
